@@ -372,7 +372,7 @@ save_validation_report(report, "results/validation_report.txt")
 
 ## 📚 Documentation
 
-- **[Full Paper (PDF)](reports/synthetic_exposures.pdf)** - Academic paper with methodology, results, and validation
+- **[Full Paper (PDF)](synthetic_exposures.pdf)** - Academic paper with methodology, results, and validation
 - **[Testing Guide (TESTING.md)](docs/TESTING.md)** - Comprehensive guide to running tests and validation
 - **[Technical Summary (TESTING_SUMMARY.md)](docs/TESTING_SUMMARY.md)** - Detailed technical documentation
 - **[Project Structure (FINAL_PROJECT_STRUCTURE.md)](docs/FINAL_PROJECT_STRUCTURE.md)** - Complete file organization
@@ -498,3 +498,4 @@ If you use this code or methodology in your research:
 *Built with rigor. Validated with tests. Ready for production.*
 
 </div>
+
